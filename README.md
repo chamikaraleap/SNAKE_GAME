@@ -1,1 +1,3 @@
 # SNAKE_GAME
+
+Init
